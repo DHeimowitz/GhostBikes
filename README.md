@@ -9,5 +9,5 @@ BIKES
  A
  L
 
-Beware of Goastmonster
+It is Useless to Beware of Goastmonster
  
